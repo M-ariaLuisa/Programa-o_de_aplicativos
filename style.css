@@ -1,0 +1,31 @@
+*/RESET DE CONFIGURAÇÕES GERAIS PARA NAVEGADORES */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color:aliceblue;
+    background-image: url(assets/bts-logo-purple-aesthetic-vxhgx180ig3wlmdb.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+)
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    margin: 20px;
+    
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+    font-family: 'Arial';
+    margin: 20px;
+}
