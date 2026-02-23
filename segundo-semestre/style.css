@@ -1,0 +1,45 @@
+/*RESET DAS CONFIGURAÇÕES DO NAVEGADOR*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blanchedalmond;
+    background-image:url(logo/logo.avif) ;
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: "Comic Sans MS";
+}
+
+h2{
+    text-align: center;
+    font-size: 60px;
+    font-family: "Arial";
+}
+
+p {
+    text-align: justify;
+    font-size: 15px;
+    margin: 20px 70px;
+}
+    
+a {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+    padding:5px 30px;
+    border-radius: 30px;
+}
+    
